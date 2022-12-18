@@ -1,0 +1,21 @@
+footer{
+    display: flex;
+    background-color: #2E2C2E;
+    color: white;
+    align-items: center;
+    padding: 3%;
+}
+
+footer h5{
+    margin-left: 12%;
+}
+
+footer img{
+    height: 30%;
+    margin-left: 20%;
+    transition: transform .7s ease-in-out;
+}
+
+footer img:hover{
+    transform: rotate(360deg);
+  }
