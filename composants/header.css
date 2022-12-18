@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+nav img {
+    margin-left: 2%;
+    height: 80%;
+    width: 10%;
+}
+
+nav {
+    background-color: #2E2C2E;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+    display: flex;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none; 
+    color: white ;
+}
+
+.hover1{
+    margin-left: 10%;
+}
+
+.hover2{
+    margin-left: 10%;
+}
+
+.hover3{
+    margin-left: 10%;
+}
+
+.hover1:hover {
+    padding: 3.05%;
+    background-color: #524E52;
+    box-shadow: 10px 5px 5px black;
+}
+
+.hover2:hover {
+    padding: 3.05%;
+    background-color: #524E52;
+    box-shadow: 10px 5px 5px black;
+}
+
+.hover3:hover {
+    padding: 3.05%;
+    background-color: #524E52;
+    box-shadow: 10px 5px 5px black;
+}
